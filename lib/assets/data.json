@@ -1,0 +1,154 @@
+{
+    "data" :[
+      {
+        "id" : 0,
+        "name" : "Популярные блюда",
+        "products" : [
+          {
+            "id" : 0,
+            "image" : "https://genaromat.ru/wp-content/uploads/2017/12/the-whopper.png",
+            "name" : "Воппер",
+            "price" : 160
+          },
+          {
+            "id" : 1,
+            "image" : "https://tampereclub.ru/uploads/posts/2019-04/1554713584_product-cheeseburger.png",
+            "name" : "Чизбургер",
+            "price" : 52
+          },
+          {
+            "id" : 2,
+            "image" : "https://zastava-krsk.ru/d/chikenburger.png",
+            "name" : "Чикенбургер",
+            "price" : 52
+          },
+          {
+            "id" : 0,
+            "image" : "https://genaromat.ru/wp-content/uploads/2017/12/the-whopper.png",
+            "name" : "Воппер",
+            "price" : 160
+          },
+          {
+            "id" : 1,
+            "image" : "https://tampereclub.ru/uploads/posts/2019-04/1554713584_product-cheeseburger.png",
+            "name" : "Чизбургер",
+            "price" : 52
+          },
+          {
+            "id" : 2,
+            "image" : "https://zastava-krsk.ru/d/chikenburger.png",
+            "name" : "Чикенбургер",
+            "price" : 52
+          },
+          {
+            "id" : 0,
+            "image" : "https://genaromat.ru/wp-content/uploads/2017/12/the-whopper.png",
+            "name" : "Воппер",
+            "price" : 160
+          },
+          {
+            "id" : 1,
+            "image" : "https://tampereclub.ru/uploads/posts/2019-04/1554713584_product-cheeseburger.png",
+            "name" : "Чизбургер",
+            "price" : 52
+          }
+        ]
+      },
+      {
+        "id" : 1,
+        "name" : "Комбо",
+        "products" : [
+          {
+            "id" : 0,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64991
+          },
+          {
+            "id" : 1,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64990
+          },
+          {
+            "id" : 2,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64990
+          }
+        ]
+      },
+      {
+        "id" : 2,
+        "name" : "Креветки",
+        "products" : [
+          {
+            "id" : 0,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64992
+          },
+          {
+            "id" : 1,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64990
+          },
+          {
+            "id" : 2,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64990
+          }
+        ]
+      },
+      {
+        "id" : 3,
+        "name" : "Бургеры",
+        "products" : [
+          {
+            "id" : 0,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64993
+          },
+          {
+            "id" : 1,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64990
+          },
+          {
+            "id" : 2,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64990
+          }
+        ]
+      },
+      {
+        "id" : 4,
+        "name" : "Картошка",
+        "products" : [
+          {
+            "id" : 0,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64994
+          },
+          {
+            "id" : 1,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64990
+          },
+          {
+            "id" : 2,
+            "image" : "https://avatars.mds.yandex.net/get-mpic/4080439/img_id3396893556724706605.jpeg/orig",
+            "name" : "Sony PlayStation 5",
+            "price" : 64990
+          }
+        ]
+      }
+    ]
+  }
